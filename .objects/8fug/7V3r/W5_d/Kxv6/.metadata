@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Kxv6fSEDmUKkc1IbP7G2Rw",
+  "Reference": "HlTMuT_DsUisFIufgUuNKg/Kxv6fSEDmUKkc1IbP7G2Rw",
+  "ParentRef": "HlTMuT_DsUisFIufgUuNKg/W5_dKRb6IEOMm_sxy1-cTg",
+  "Name": "Menubar mbar",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-05-09T04:42:01.1391187Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T04:42:01.1391187Z"
+}

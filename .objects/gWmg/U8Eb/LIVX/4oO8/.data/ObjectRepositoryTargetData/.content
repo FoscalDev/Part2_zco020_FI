@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Kv1hKXk_wUGI9rNCAb64Xw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="299, 223, 20, 20" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Continuar (Intro)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" Guid="2680c588-b264-444c-8150-791ca886fd2a" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Seleccionar cálculo costes tabla' idx='*' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="83b2345edbccc85d0dbce5e0d9d1a068.png" xmlns="">0mqEypnE-8UCt_a613EyNKQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

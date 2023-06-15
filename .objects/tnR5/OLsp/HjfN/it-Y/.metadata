@@ -1,0 +1,14 @@
+﻿{
+  "Id": "it-YAKh2HUuWNy6ViIk_3g",
+  "Reference": "HlTMuT_DsUisFIufgUuNKg/it-YAKh2HUuWNy6ViIk_3g",
+  "ParentRef": "HlTMuT_DsUisFIufgUuNKg/HjfNMVxSDki9nvPLGqAfGg",
+  "Name": "Hoja cálculo coste",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-05-10T04:56:57.8601533Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T04:56:57.8601533Z"
+}

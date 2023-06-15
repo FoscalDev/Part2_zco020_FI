@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V3-S1lU-B0uVfiI1vTCNIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="201, 245, 20, 20" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Continuar (Intro)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" Guid="441083a7-ce07-4df1-a925-28c9d65524b4" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Grabar lista fichero...' idx='*' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3f4ba034b813a0d3d06121fbaf8d9695.png" xmlns="">0eps8bed0WkGfL09GbNKs6A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

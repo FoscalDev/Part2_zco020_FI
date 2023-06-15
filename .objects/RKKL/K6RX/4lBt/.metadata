@@ -1,0 +1,13 @@
+﻿{
+  "Id": "4lBtoWhQjkSnhpznvbL1GQ",
+  "Reference": "HlTMuT_DsUisFIufgUuNKg/4lBtoWhQjkSnhpznvbL1GQ",
+  "ParentRef": "HlTMuT_DsUisFIufgUuNKg/K6RXwzu5HECaJz0UFDlD8Q",
+  "Name": "Transferencia Honorarios de orden de episodio a orden de prestac*",
+  "Type": "Screen",
+  "Created": "2023-05-10T13:26:44.2518811Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T13:26:44.2518811Z"
+}

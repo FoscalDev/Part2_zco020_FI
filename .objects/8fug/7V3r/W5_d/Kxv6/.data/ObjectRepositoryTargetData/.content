@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WVhrxWU-00adinA3tddKGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="38, 18, 1302, 18" DesignTimeScaleFactor="1" FriendlyName="'Menubar mbar'" FullSelectorArgument="&lt;sap id='mbar' /&gt;" FuzzySelectorArgument="&lt;sap id='mbar' /&gt;" Guid="536f12cb-2a5c-49be-a8f9-76fc0ceb21b8" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Transferencia Honorarios de orden de episodio a orden de prestac*' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c6f773db92f76809905cff3959abf999.png" xmlns="">08eXukswdxUiy-uskDT_Z2Q</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

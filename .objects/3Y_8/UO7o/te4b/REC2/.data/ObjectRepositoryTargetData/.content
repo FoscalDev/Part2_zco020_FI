@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R6hs4syooUqUaV97Fy2q9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="306, 112, 42, 20" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Crear'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' check:text='Crear' /&gt;" Guid="78c4a333-47d6-4ac0-85a7-a884d680810f" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='CO - Transferencia de Honorarios: Estado de Contabilización' idx='*' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="75b941eb6c05637606b48b4228b55cee.png" xmlns="">08Z5yKDZB3EScXMxQxihDnQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

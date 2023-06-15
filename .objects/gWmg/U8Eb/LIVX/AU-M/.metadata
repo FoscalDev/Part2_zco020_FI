@@ -1,0 +1,14 @@
+﻿{
+  "Id": "AU-MOgJUnUWtN7xr80kIvw",
+  "Reference": "HlTMuT_DsUisFIufgUuNKg/AU-MOgJUnUWtN7xr80kIvw",
+  "ParentRef": "HlTMuT_DsUisFIufgUuNKg/LIVXnlGlTUuCCkZOJBq6Bw",
+  "Name": "Hoja de cálculo...",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-05-31T14:15:13.3953796Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T14:15:13.3953796Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "4VQiEP05eU2RNdpDrkO7ag",
+  "Reference": "HlTMuT_DsUisFIufgUuNKg/4VQiEP05eU2RNdpDrkO7ag",
+  "ParentRef": "HlTMuT_DsUisFIufgUuNKg/5iWkMwvqfU213WiQZ9Rn-Q",
+  "Name": "Clave del Registro",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-05-31T15:48:51.5126227Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T15:48:51.5126227Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "4oO8zPbkQ0y7ZvdNXK6IQA",
+  "Reference": "HlTMuT_DsUisFIufgUuNKg/4oO8zPbkQ0y7ZvdNXK6IQA",
+  "ParentRef": "HlTMuT_DsUisFIufgUuNKg/LIVXnlGlTUuCCkZOJBq6Bw",
+  "Name": "Button Continuar (Intro)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-05-31T14:15:28.59624Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T14:15:28.59624Z"
+}
